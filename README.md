@@ -22,6 +22,7 @@ A simple weather web application that allows users to enter a city name and fetc
 - Render (deployment)
 
 ## 📁 Project Structure
+```bash
 weather-app/
 ├── views/
 │ └── index.html
